@@ -1,0 +1,7 @@
+development:
+  adapter: postgresql
+  database: proposalmaker_development
+
+test:
+  adapter: postgresql
+  database: proposalmaker_test
